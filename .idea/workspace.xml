@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7bde7f2-a3e5-4fca-b958-ff19672884e8" name="Changes" comment="новая версия">
+      <change afterPath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/config/CloudConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/services/exchangeservice/ExchangeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/services/currencyservice/CurrencyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/services/currencyservice/CurrencyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/services/accountservice/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/processing-service/src/main/java/ru/teachmeplz/processing/services/accountservice/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processing-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/processing-service/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "jdk.selected.JAVA_MODULE": "corretto-15",
     "last_opened_file_path": "E:/litcode",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -82,7 +85,7 @@
       <recent name="E:\cbr v01 exchange" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ProcessingServiceApplication">
+  <component name="RunManager" selected="Spring Boot.CurrencyExchangeApplication">
     <configuration name="CurrencyExchangeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="currency_exchange" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ru.teachmeplz.currency_exchange.CurrencyExchangeApplication" />
@@ -109,7 +112,7 @@
       <workItem from="1681397418922" duration="204000" />
       <workItem from="1681397653511" duration="11265000" />
       <workItem from="1681481887099" duration="835000" />
-      <workItem from="1681576534221" duration="12603000" />
+      <workItem from="1681576534221" duration="21713000" />
     </task>
     <task id="LOCAL-00001" summary="новая версия">
       <created>1681582150733</created>
@@ -139,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681747091367</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="новая версия">
+      <created>1681751485552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681751485552</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
